@@ -3,7 +3,7 @@
   "header": {
     "name": "Vibrant Visuals Starter Configuration",
     "description": "Vibrant Visuals Starter",
-    "uuid": "bd86bc16-15a1-4e4d-8908-8b0270141d27",
+    "uuid": "6bf6788f-9320-4ad5-9e9f-61fce53d806d",
     "version": [1, 0, 0],
     "min_engine_version": [1, 21, 70]
   },
@@ -11,7 +11,7 @@
     {
       "description": "Vibrant Visuals Resources",
       "type": "resources",
-      "uuid": "3ed2d7f5-1d07-4006-ae8d-73e455f76ef4",
+      "uuid": "1064a3db-1901-490b-b9ee-d0fe0e4c10fa",
       "version": [1, 0, 0]
     }
   ],
