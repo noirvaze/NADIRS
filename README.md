@@ -1,4 +1,4 @@
-oasd git> [!IMPORTANT]
+> [!IMPORTANT]
 > This shader is recommended to be used on mid to high end devices. low end devices may experience lag due to Vibrant Visuals.
 
 > [!NOTE]
