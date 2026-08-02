@@ -2,7 +2,7 @@
   "format_version": "1.21.80",
   "minecraft:lighting_settings": {
     "description": {
-      "identifier": "minecraft:default_lighting"
+      "identifier": "nadirs:default_lighting"
     },
     "directional_lights": {
       "orbital": {

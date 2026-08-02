@@ -1,6 +1,6 @@
 {
    "num_mip_levels" : 3,
-   "resource_pack_name" : "odyssey",
+   "resource_pack_name" : "nadirs",
    "texture_data" : {
       "acacia_planks" : {
          "textures" : "textures/blocks/planks_acacia"
