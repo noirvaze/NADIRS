@@ -7,7 +7,22 @@
 # NADIRS
 NADIRS, or Noirvaze's Amazing Deferred Immersive Shader, is a Minecraft Bedrock Edition Shader that has a realistic touch to its lighting. As a Bedrock player with a desktop that doesn't perform games as great, my only option was to use my Ipad, but there were only a few shaders on websites you can use and Java has way more. So I thought if I could just make one myself.
 
-## Download & Installation
+# Progress :hammer:
+- [x] Update UUID and Identifiers
+- [ ] Edit [Lighting.json](https://github.com/noirvaze/NADIRS/tree/f32637bce9712c2c9bf16267e4bce3f902b5802e/lighting0)
+- [ ] Edit [Atmospheric.json](https://github.com/noirvaze/NADIRS/tree/f32637bce9712c2c9bf16267e4bce3f902b5802e/atmospherics)
+### Commits
+Alternatively, you can just view my recent commits and see what has changed in detail.
+
+# Download, Installation & Compatability
+Below is information about installling and compatability.
+
+## Minecraft version and Compatability
+For NADIRS to work, you <ins>must</ins> have:
+> - Mincraft Bedrock Edition <sup>( Windows, IOS or Android )</sup>
+> - Version 1.21.80.25 and up to have access to Vibrant visuals/Deferred Technical Preview
+
+## Installation
 Unlike Java, Bedrock edition has a way easier way of importing and installing resource packs. _It doesnt require anything else!_
 
 1. Download the latest release in the [Release page](https://github.com/noirvaze/NADIRS/releases)
@@ -22,5 +37,5 @@ _Enjoy your new experience._
   <summary>
     Notes
   </summary>
-  This shader is still in its works, you can view progress by viewing commits. If you want to use this while development is still being made <sub>( this is not recommened )</sub>, compile by using your command prompt <sub>( windows )</sub>, download git, and type `git clone https://github.com/noirvaze/NADIRS.git` to clone. use cd to select the folder location to clone in, or make a new one by typing md.
+  This shader is still in its works, you can view progress by viewing commits. If you want to use this while development is still being made <sub>( this is not recommened )</sub>, compile by using your command prompt <sub>( windows )</sub>, download [git](https://git-scm.com/), and type `git clone https://github.com/noirvaze/NADIRS.git` to clone. use cd to select the folder location to clone in, or make a new one by typing md.
 </details>
