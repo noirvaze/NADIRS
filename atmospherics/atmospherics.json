@@ -36,9 +36,9 @@
       "0.70": [24, 32, 36], // night
       "0.75": [13, 18, 20], // midnight
       "0.82": [13, 18, 20], // late night
-      "0.88": [36, 47, 58], // pre-dawn
-      "0.92": [42, 52, 66], // very close to sunrise
-      "1.00": [103, 130, 170] // sunrise
+      "0.88": [29, 29, 35], // pre-dawn
+      "0.92": [32, 32, 41], // very close to sunrise
+      "1.00": [128, 71, 43] // sunrise
     },
     "rayleigh_strength": {
       "0.000000": 10.0,
