@@ -12,21 +12,21 @@
     "caustics": {
       "enabled": true,
       "frame_length": 0.09,
-      "scale": 0.5,
-      "power": 1
+      "scale": 0.4,
+      "power": 0.87
     },
     "waves": {
       "enabled": true,
-      "frequency": 1,
-      "octaves": 28,
+      "frequency": 0.9,
+      "octaves": 10,
       "depth": 1,
-      "sampleWidth": 0.009999999776482582,
-      "speed": 2,
-      "shape": 1.5,
-      "pull": 0.3799999952316284,
-      "mix": 0.20000000298023224,
-      "frequency_scaling": 1.2000000476837158,
-      "speed_scaling": 1.0299999713897705
+      "sampleWidth": 0.5,
+      "speed": 1.75,
+      "shape": 1.25,
+      "pull": -0.23,
+      "mix": 0.2,
+      "frequency_scaling": 1.1,
+      "speed_scaling": 1.01
     },
      "biome_water_color_contribution": 0
   }
