@@ -3,42 +3,41 @@
   "minecraft:atmosphere_settings": {
     "description": { "identifier": "nadirs:default_atmospherics" },
     "sky_zenith_color": {
-      "0.00": [103, 130, 170], // sunrise
-      "0.04": [140, 130, 143], // early dawn
-      "0.08": [114, 122, 158], // morning
-      "0.25": [70, 107, 172], // noon
-      "0.35":[76, 109, 168], // mid afternoon
-      "0.45": [56, 80, 122], // golden hour
-      "0.48": [104, 112, 144], // sunset
-      "0.52": [121, 115, 126], // sunset
-      "0.54": [106, 106, 108], // after sunset dusk
-      "0.58": [62, 64, 68], // twilight
-      "0.62": [46, 51, 54], // early night
-      "0.70": [35, 39, 41], // night
-      "0.75": [13, 20, 25], // midnight
-      "0.82": [13, 17, 18], // late night
-      "0.88": [36, 47, 58], // pre-dawn
-      "0.92": [42, 52, 66], // very close to sunrise
-      "1.00": [103, 130, 170] // sunrise
+      "0.00": [52, 91, 157], // noon
+      "0.04": [91, 115, 157], // mid afternoon
+      "0.08": [56, 80, 122], // approaching sunset
+      "0.25": [45, 49, 55], // after sunset dusk
+      "0.35":[25, 37, 46], // early night
+      "0.45": [17, 25, 31], // late night
+      "0.48": [15, 22, 27], // midnight
+      "0.52": [15, 22, 27], // midnight
+      "0.54": [17, 25, 31], // late night after minight
+      "0.58": [25, 37, 46], // pre-dawn
+      "0.62": [46, 50, 56], // very close to sunrise
+      "0.70": [138, 131, 135], // sunrise starts
+      "0.75": [123, 113, 122], // sunrise
+      "0.82": [131, 142, 178], // morning
+      "0.88": [63, 91, 137], // late morning
+      "0.92": [57, 93, 155], // approaching noon
+      "1.00": [52, 91, 157] // noon
     },
     "sky_horizon_color": {
-      "0.00": [128, 71, 43], // sunrise
-      "0.04": [133, 77, 39], // early dawn
-      "0.08": [142, 112, 87], // morning
-      "0.25": [222, 197, 170], // noon
-      "0.35":[236, 197, 147], // mid afternoon
-      "0.45": [191, 125, 64], // golden hour
-      "0.48": [169, 92, 35], // sunset
-      "0.52": [169, 92, 35], // sunset
-      "0.54": [42, 35, 46], // after sunset dusk
-      "0.58": [25, 27, 31], // twilight
-      "0.62": [16, 18, 20], // early night
-      "0.70": [24, 32, 36], // night
-      "0.75": [13, 18, 20], // midnight
-      "0.82": [13, 18, 20], // late night
-      "0.88": [29, 29, 35], // pre-dawn
-      "0.92": [32, 32, 41], // very close to sunrise
-      "1.00": [128, 71, 43] // sunrise
+      "0.00": [199, 190, 192], // noon
+      "0.04": [216, 192, 177], // mid afternoon
+      "0.08": [196, 152, 112], // approaching sunset
+      "0.25": [23, 25, 29], // after sunset dusk
+      "0.35":[36, 40, 42], // early night
+      "0.48": [28, 35, 40], // midnight
+      "0.52": [28, 35, 40], // midnight
+      "0.54": [28, 35, 40], // late night after midnight
+      "0.58": [18, 20, 24], // pre-dawn
+      "0.62": [27, 29, 33], // very close to sunrise
+      "0.70": [84, 49, 59], // sunrise starts
+      "0.75": [154, 103, 59], // sunrise
+      "0.82": [180, 142, 116], // morning
+      "0.88": [218, 190, 159], // late morning
+      "0.92": [216, 192, 177], // approaching noon
+      "1.00": [199, 190, 192] // noon
     },
     "rayleigh_strength": {
       "0.000000": 10.0, // sunrise
@@ -68,7 +67,7 @@
     "0.900000": 0.06,
     "1.000000": 0.02
     },
-    "sun_glare_shape": { "0.000000": 5, "1.000000": 5
+    "sun_glare_shape": { "0.000000": 15, "1.000000": 15
     },
     "horizon_blend_stops": {
       "min": { "0.000000": 0.020, "1.000000": 0.020 },
