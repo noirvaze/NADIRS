@@ -9,8 +9,9 @@ NADIRS, or Noirvaze's Amazing Deferred Immersive Shader, is a Minecraft Bedrock 
 
 # Progress :hammer:
 - [x] Update UUID and Identifiers
-- [ ] Edit [Lighting.json](https://github.com/noirvaze/NADIRS/tree/f32637bce9712c2c9bf16267e4bce3f902b5802e/lighting0) with new colours
+- [x] Edit [Lighting.json](https://github.com/noirvaze/NADIRS/tree/f32637bce9712c2c9bf16267e4bce3f902b5802e/lighting0) with new colours
 - [x] Edit [Atmospheric.json](https://github.com/noirvaze/NADIRS/tree/f32637bce9712c2c9bf16267e4bce3f902b5802e/atmospherics) with new colours
+- [ ] adjust properties till it looks good
 - [ ] test before releasing alpha to testers for feedback
 ### Commits
 Alternatively, you can just view my recent commits and see what has changed in detail.
