@@ -4,7 +4,7 @@
     "name": "NADIRS",
     "description": "A Semi-Realistic shader bilt for Minecraft Bedrock edition",
     "uuid": "6bf6788f-9320-4ad5-9e9f-61fce53d806d",
-    "version": [1, 0, 1],
+    "version": [1, 0, 2],
     "min_engine_version": [1, 21, 70]
   },
   "modules": [
