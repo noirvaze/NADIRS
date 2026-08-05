@@ -23,7 +23,7 @@
       "sampleWidth": 0.5,
       "speed": 1.75,
       "shape": 1.25,
-      "pull": -0.23,
+      "pull": 0.23,
       "mix": 0.2,
       "frequency_scaling": 1.1,
       "speed_scaling": 1.01

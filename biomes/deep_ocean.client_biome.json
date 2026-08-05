@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "nadirs:fog_deep_ocean"
+        "fog_identifier": "nadirs:fog_default"
       },
       "minecraft:water_appearance": {
         "surface_color": "#1787D4"

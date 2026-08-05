@@ -27,13 +27,13 @@
         "shadowsMax": 0.5,
         "contrast": [1.075, 1.075, 1.075],
         "gain": [1.03, 1.03, 1.03],
-        "gamma": [1.9, 1.9, 1.9],
+        "gamma": [1.35, 1.35, 1.35],
         "offset": [0, 0, 0],
         "saturation": [1.07, 1.07, 1.07]
       },
       "temperature": {
         "enabled": true,
-        "temperature": 8500.0,
+        "temperature": 9500.0,
         "type": "colour_temperature"
       }
     },

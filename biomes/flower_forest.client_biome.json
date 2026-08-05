@@ -6,10 +6,10 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "nadirs:fog_flower_forest"
+        "fog_identifier": "nadirs:fog_default"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#20A3CC"
+        "surface_color": "#2e4e5a"
       },
       "minecraft:atmosphere_identifier": {
         "atmosphere_identifier": "nadirs:default_atmospherics"
