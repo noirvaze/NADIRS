@@ -1,0 +1,429 @@
+{
+    "format_version": "1.21.120",
+    "minecraft:local_light_settings": {
+
+        // ============================================================
+        // TORCHES
+        // ============================================================
+        "minecraft:torch": {
+            "light_color": "#54280c",
+            "light_type": "point_light"
+        },
+        "minecraft:soul_torch": {
+            "light_color": "#2c7ea0",
+            "light_type": "point_light"
+        },
+        "minecraft:redstone_torch": {
+            "light_color": "#9e1c0e",
+            "light_type": "point_light"
+        },
+        "minecraft:copper_torch": {
+            "light_color": "#5a8c2a",
+            "light_type": "point_light"
+        },
+
+        // ============================================================
+        // LANTERNS
+        // ============================================================
+        "minecraft:lantern": {
+            "light_color": "#54280c",
+            "light_type": "point_light"
+        },
+        "minecraft:soul_lantern": {
+            "light_color": "#2c7ea0",
+            "light_type": "point_light"
+        },
+        "minecraft:copper_lantern": {
+            "light_color": "#5a8c2a",
+            "light_type": "point_light"
+        },
+        "minecraft:waxed_copper_lantern": {
+            "light_color": "#5a8c2a",
+            "light_type": "point_light"
+        },
+        "minecraft:exposed_copper_lantern": {
+            "light_color": "#5a8c2a",
+            "light_type": "point_light"
+        },
+        "minecraft:waxed_exposed_copper_lantern": {
+            "light_color": "#5a8c2a",
+            "light_type": "point_light"
+        },
+        "minecraft:weathered_copper_lantern": {
+            "light_color": "#4a7a3a",
+            "light_type": "point_light"
+        },
+        "minecraft:waxed_weathered_copper_lantern": {
+            "light_color": "#4a7a3a",
+            "light_type": "point_light"
+        },
+        "minecraft:oxidized_copper_lantern": {
+            "light_color": "#3a6e4a",
+            "light_type": "point_light"
+        },
+        "minecraft:waxed_oxidized_copper_lantern": {
+            "light_color": "#3a6e4a",
+            "light_type": "point_light"
+        },
+
+        // ============================================================
+        // CANDLES (point lights — one entry per colour)
+        // ============================================================
+        "minecraft:candle": {
+            "light_color": "#54280c",
+            "light_type": "point_light"
+        },
+        "minecraft:white_candle": {
+            "light_color": "#d4d4d4",
+            "light_type": "point_light"
+        },
+        "minecraft:light_gray_candle": {
+            "light_color": "#8c8c8c",
+            "light_type": "point_light"
+        },
+        "minecraft:gray_candle": {
+            "light_color": "#606060",
+            "light_type": "point_light"
+        },
+        "minecraft:black_candle": {
+            "light_color": "#3B3B3D",
+            "light_type": "point_light"
+        },
+        "minecraft:brown_candle": {
+            "light_color": "#805024",
+            "light_type": "point_light"
+        },
+        "minecraft:red_candle": {
+            "light_color": "#9e1c0e",
+            "light_type": "point_light"
+        },
+        "minecraft:orange_candle": {
+            "light_color": "#c86420",
+            "light_type": "point_light"
+        },
+        "minecraft:yellow_candle": {
+            "light_color": "#d4a52a",
+            "light_type": "point_light"
+        },
+        "minecraft:lime_candle": {
+            "light_color": "#5aaa1c",
+            "light_type": "point_light"
+        },
+        "minecraft:green_candle": {
+            "light_color": "#2a6010",
+            "light_type": "point_light"
+        },
+        "minecraft:cyan_candle": {
+            "light_color": "#27AB9E",
+            "light_type": "point_light"
+        },
+        "minecraft:light_blue_candle": {
+            "light_color": "#3a7ab8",
+            "light_type": "point_light"
+        },
+        "minecraft:blue_candle": {
+            "light_color": "#2132B0",
+            "light_type": "point_light"
+        },
+        "minecraft:purple_candle": {
+            "light_color": "#7822BA",
+            "light_type": "point_light"
+        },
+        "minecraft:magenta_candle": {
+            "light_color": "#C73EC7",
+            "light_type": "point_light"
+        },
+        "minecraft:pink_candle": {
+            "light_color": "#F0658D",
+            "light_type": "point_light"
+        },
+
+        // ============================================================
+        // CAMPFIRES
+        // ============================================================
+        "minecraft:campfire": {
+            "light_color": "#54280c",
+            "light_type": "point_light"
+        },
+        "minecraft:soul_campfire": {
+            "light_color": "#2c7ea0",
+            "light_type": "point_light"
+        },
+
+        // ============================================================
+        // FIRE
+        // ============================================================
+        "minecraft:fire": {
+            "light_color": "#54280c",
+            "light_type": "static_light"
+        },
+        "minecraft:soul_fire": {
+            "light_color": "#2c7ea0",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // AMETHYST CLUSTERS & BUDS
+        // ============================================================
+        "minecraft:amethyst_cluster": {
+            "light_color": "#400963",
+            "light_type": "point_light"
+        },
+        "minecraft:large_amethyst_bud": {
+            "light_color": "#400963",
+            "light_type": "point_light"
+        },
+        "minecraft:medium_amethyst_bud": {
+            "light_color": "#400963",
+            "light_type": "point_light"
+        },
+        "minecraft:small_amethyst_bud": {
+            "light_color": "#400963",
+            "light_type": "point_light"
+        },
+        // ============================================================
+        // LAMPS & REDSTONE LIGHTS
+        // ============================================================
+
+        "minecraft:redstone_lamp": {
+            "light_color": "#54280c",
+            "light_type": "static_light"
+        },
+        "minecraft:lit_pumpkin": {
+            "light_color": "#54280c",
+            "light_type": "static_light"
+        },
+        "minecraft:pearlescent_froglight": {
+            "light_color": "#4F2B43",
+            "light_type": "static_light"
+        },
+        "minecraft:verdant_froglight": {
+            "light_color": "#1a4a2a",
+            "light_type": "static_light"
+        },
+        "minecraft:ochre_froglight": {
+            "light_color": "#4a3a08",
+            "light_type": "static_light"
+        },
+        // ============================================================
+        // COPPER BULBS
+        // ============================================================
+        "minecraft:copper_bulb": {
+            "light_color": "#7a4a0c",
+            "light_type": "static_light"
+        },
+        "minecraft:waxed_copper_bulb": {
+            "light_color": "#7a4a0c",
+            "light_type": "static_light"
+        },
+        "minecraft:exposed_copper_bulb": {
+            "light_color": "#6a400c",
+            "light_type": "static_light"
+        },
+        "minecraft:waxed_exposed_copper_bulb": {
+            "light_color": "#6a400c",
+            "light_type": "static_light"
+        },
+        "minecraft:weathered_copper_bulb": {
+            "light_color": "#59370C",
+            "light_type": "static_light"
+        },
+        "minecraft:waxed_weathered_copper_bulb": {
+            "light_color": "#59370C",
+            "light_type": "static_light"
+        },
+        "minecraft:oxidized_copper_bulb": {
+            "light_color": "#4C310F",
+            "light_type": "static_light"
+        },
+        "minecraft:waxed_oxidized_copper_bulb": {
+            "light_color": "#4C310F",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // SEA / OCEAN LIGHT SOURCES
+        // ============================================================
+        "minecraft:sea_lantern": {
+            "light_color": "#468585",
+            "light_type": "static_light"
+        },
+        "minecraft:sea_pickle": {
+            "light_color": "#143D31",
+            "light_type": "point_light"
+        },
+
+        // ============================================================
+        // END DIMENSION
+        // ============================================================
+        "minecraft:end_rod": {
+            "light_color": "#6c587e",
+            "light_type": "point_light"
+        },
+        "minecraft:end_portal": {
+            "light_color": "#0b0911",
+            "light_type": "static_light"
+        },
+        "minecraft:end_gateway": {
+            "light_color": "#0b0911",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // NETHER BLOCKS
+        // ============================================================
+        "minecraft:glowstone": {
+            "light_color": "#291c09",
+            "light_type": "static_light"
+        },
+        "minecraft:shroomlight": {
+            "light_color": "#291c09",
+            "light_type": "static_light"
+        },
+        "minecraft:lava": {
+            "light_color": "#632f18",
+            "light_type": "static_light"
+        },
+        "minecraft:flowing_lava": {
+            "light_color": "#632f18",
+            "light_type": "static_light"
+        },
+        "minecraft:magma": {
+            "light_color": "#552d0c",
+            "light_type": "static_light"
+        },
+        "minecraft:portal": {
+            "light_color": "#2E1552",
+            "light_type": "static_light"
+        },
+        "minecraft:respawn_anchor": {
+            "light_color": "#1d0d34",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // DEEP DARK / SCULK
+        // ============================================================
+        "minecraft:sculk_catalyst": {
+            "light_color": "#0d2334",
+            "light_type": "static_light"
+        },
+        "minecraft:sculk_sensor": {
+            "light_color": "#0d2334",
+            "light_type": "static_light"
+        },
+        "minecraft:calibrated_sculk_sensor": {
+            "light_color": "#0d2334",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // CRYING OBSIDIAN
+        // ============================================================
+        "minecraft:crying_obsidian": {
+            "light_color": "#1d0d34",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // FURNACES & CRAFTING HEAT BLOCKS
+        // ============================================================
+        "minecraft:furnace": {
+            "light_color": "#54280c",
+            "light_type": "static_light"
+        },
+        "minecraft:blast_furnace": {
+            "light_color": "#54280c",
+            "light_type": "static_light"
+        },
+        "minecraft:smoker": {
+            "light_color": "#54280c",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // BEACON & CONDUIT
+        // ============================================================
+        "minecraft:beacon": {
+            "light_color": "#7ad4d4",
+            "light_type": "static_light"
+        },
+        "minecraft:conduit": {
+            "light_color": "#4abcbc",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // CAVE / OVERWORLD NATURAL LIGHT SOURCES
+        // ============================================================
+        "minecraft:glow_lichen": {
+            "light_color": "#2a4044",
+            "light_type": "static_light"
+        },
+        "minecraft:cave_vines_body_with_berries": {
+            "light_color": "#5a3a10",
+            "light_type": "static_light"
+        },
+        "minecraft:cave_vines_head_with_berries": {
+            "light_color": "#5a3a10",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // MUSHROOMS & FUNGI
+        // ============================================================
+        "minecraft:brown_mushroom": {
+            "light_color": "#291c09",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // FLOWERS & PLANTS
+        // ============================================================
+        "minecraft:firefly_bush": {
+            "light_color": "#291c09",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // ORE (when lit / activated)
+        // ============================================================
+        "minecraft:lit_redstone_ore": {
+            "light_color": "#891106",
+            "light_type": "static_light"
+        },
+        "minecraft:lit_deepslate_redstone_ore": {
+            "light_color": "#891106",
+            "light_type": "static_light"
+        },
+
+        // ============================================================
+        // MISC / SPECIAL
+        // ============================================================
+        "minecraft:brewing_stand": {
+            "light_color": "#3a2808",
+            "light_type": "static_light"
+        },
+        "minecraft:enchanting_table": {
+            "light_color": "#1F1140",
+            "light_type": "static_light"
+        },
+        "minecraft:vault": {
+            "light_color": "#241104",
+            "light_type": "static_light"
+        },
+        "minecraft:ender_chest": {
+            "light_color": "#266149",
+            "light_type": "static_light"
+        },
+        "minecraft:cauldron": {
+            "light_color": "#632f18",
+            "light_type": "static_light"
+        },
+        "minecraft:light_block": {
+            "light_color": "#614112",
+            "light_type": "static_light"
+        }
+
+    }
+}

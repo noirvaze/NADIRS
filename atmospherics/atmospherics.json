@@ -1,5 +1,5 @@
 {
-  "format_version": "1.26.20",
+  "format_version": "1.26.40",
   "minecraft:atmosphere_settings": {
     "description": { "identifier": "nadirs:default_atmospherics" },
     "sky_zenith_color": {
