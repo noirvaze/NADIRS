@@ -8,25 +8,25 @@
       "midtones": {
         "midtonesMax": 60,
         "contrast": [1.075, 1.075, 1.075],
-        "gain": [1.05, 1.05, 1.05],
-        "gamma": [2.1, 2.1, 2.1],
+        "gain": [1.085, 1.085, 1.085],
+        "gamma": [2.8, 2.8, 2.8],
         "offset": [0, 0, 0],
-        "saturation": [1.07, 1.07, 1.07]
+        "saturation": [1.075, 1.075, 1.075]
       },
       "highlights": {
         "enabled":true,
         "highlightsMin":20,
         "contrast": [1.45, 1.45, 1.45],
-        "gain": [1.65, 1.65, 1.65],
-        "gamma": [2.25, 2.25, 2.25],
+        "gain": [1, 1, 1],
+        "gamma": [2.35, 2.35, 2.35],
         "offset": [0, 0, 0],
-        "saturation": [1.065, 1.065, 1.065]
+        "saturation": [1.068, 1.068, 1.068]
       },
       "shadows": {
         "enabled": true,
         "shadowsMax": 0.5,
-        "contrast": [1.075, 1.075, 1.075],
-        "gain": [1.03, 1.03, 1.03],
+        "contrast": [1.086, 1.086, 1.086],
+        "gain": [1.035, 1.035, 1.035],
         "gamma": [1, 1, 1],
         "offset": [0, 0, 0],
         "saturation": [1.07, 1.07, 1.07]
@@ -38,7 +38,7 @@
       }
     },
     "tone_mapping": {
-      "operator": "Hable"
+      "operator": "aces"
     }
   }
 }
