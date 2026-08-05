@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.80",
+  "format_version": "1.26.0",
   "minecraft:lighting_settings": {
     "description": {
       "identifier": "nadirs:default_lighting"
@@ -8,13 +8,13 @@
       "orbital": {
         "sun": {
           "illuminance": {
-            "0.00": 150.0,
-           "0.18": 150.0,
+            "0.00": 135.0,
+           "0.18": 135.0,
            "0.25": 90.0,
            "0.50": 1.0,
            "0.75": 90.0,
-           "0.82": 150.0,
-           "1.00": 150.0
+           "0.82": 135.0,
+           "1.00": 135.0
        },
           "color": {
             "0.00": [255, 245, 220],
@@ -46,10 +46,10 @@
       }
     },
     "emissive": {
-      "desaturation": 0.0
+      "desaturation": 0.17
     },
     "ambient": {
-      "color": "#FFFFFF",
+      "color": "#848484",
       "illuminance": 0.01
     },
     "sky": {

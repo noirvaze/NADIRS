@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.80",
+  "format_version": "1.26.0",
   "minecraft:water_settings": {
     "description": {
       "identifier": "nadirs:default_water"
@@ -11,21 +11,22 @@
     },
     "caustics": {
       "enabled": true,
-      "frame_length": 0.09,
-      "scale": 0.4,
-      "power": 0.87
+      "frame_length": 0.02,
+      "scale": 0.7,
+      "power": 0.65
     },
     "waves": {
       "enabled": true,
-      "frequency": 0.9,
-      "octaves": 10,
-      "depth": 1,
+      "frequency": 0.75,
+      "octaves": 15,
+      "depth": 0.15,
       "sampleWidth": 0.5,
-      "speed": 1.75,
-      "shape": 1.25,
-      "pull": 0.23,
-      "mix": 0.2,
+      "speed": 3.5,
+      "shape": 4,
+      "pull": 0.53,
+      "mix": 0.1,
       "frequency_scaling": 1.1,
+      "direction_increment": 80,
       "speed_scaling": 1.01
     },
      "biome_water_color_contribution": 0
