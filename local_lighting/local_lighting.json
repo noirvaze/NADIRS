@@ -2,9 +2,6 @@
     "format_version": "1.21.120",
     "minecraft:local_light_settings": {
 
-        // ============================================================
-        // TORCHES
-        // ============================================================
         "minecraft:torch": {
             "light_color": "#54280c",
             "light_type": "point_light"
@@ -22,9 +19,6 @@
             "light_type": "point_light"
         },
 
-        // ============================================================
-        // LANTERNS
-        // ============================================================
         "minecraft:lantern": {
             "light_color": "#54280c",
             "light_type": "point_light"
@@ -66,9 +60,6 @@
             "light_type": "point_light"
         },
 
-        // ============================================================
-        // CANDLES (point lights — one entry per colour)
-        // ============================================================
         "minecraft:candle": {
             "light_color": "#54280c",
             "light_type": "point_light"
@@ -138,9 +129,7 @@
             "light_type": "point_light"
         },
 
-        // ============================================================
-        // CAMPFIRES
-        // ============================================================
+
         "minecraft:campfire": {
             "light_color": "#54280c",
             "light_type": "point_light"
@@ -150,9 +139,6 @@
             "light_type": "point_light"
         },
 
-        // ============================================================
-        // FIRE
-        // ============================================================
         "minecraft:fire": {
             "light_color": "#54280c",
             "light_type": "static_light"
@@ -162,9 +148,7 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // AMETHYST CLUSTERS & BUDS
-        // ============================================================
+
         "minecraft:amethyst_cluster": {
             "light_color": "#400963",
             "light_type": "point_light"
@@ -181,9 +165,7 @@
             "light_color": "#400963",
             "light_type": "point_light"
         },
-        // ============================================================
-        // LAMPS & REDSTONE LIGHTS
-        // ============================================================
+
 
         "minecraft:redstone_lamp": {
             "light_color": "#54280c",
@@ -205,9 +187,7 @@
             "light_color": "#4a3a08",
             "light_type": "static_light"
         },
-        // ============================================================
-        // COPPER BULBS
-        // ============================================================
+
         "minecraft:copper_bulb": {
             "light_color": "#7a4a0c",
             "light_type": "static_light"
@@ -241,9 +221,7 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // SEA / OCEAN LIGHT SOURCES
-        // ============================================================
+
         "minecraft:sea_lantern": {
             "light_color": "#468585",
             "light_type": "static_light"
@@ -253,9 +231,7 @@
             "light_type": "point_light"
         },
 
-        // ============================================================
-        // END DIMENSION
-        // ============================================================
+
         "minecraft:end_rod": {
             "light_color": "#6c587e",
             "light_type": "point_light"
@@ -269,9 +245,7 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // NETHER BLOCKS
-        // ============================================================
+
         "minecraft:glowstone": {
             "light_color": "#291c09",
             "light_type": "static_light"
@@ -301,9 +275,7 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // DEEP DARK / SCULK
-        // ============================================================
+
         "minecraft:sculk_catalyst": {
             "light_color": "#0d2334",
             "light_type": "static_light"
@@ -317,17 +289,13 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // CRYING OBSIDIAN
-        // ============================================================
+
         "minecraft:crying_obsidian": {
             "light_color": "#1d0d34",
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // FURNACES & CRAFTING HEAT BLOCKS
-        // ============================================================
+
         "minecraft:furnace": {
             "light_color": "#54280c",
             "light_type": "static_light"
@@ -341,9 +309,7 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // BEACON & CONDUIT
-        // ============================================================
+
         "minecraft:beacon": {
             "light_color": "#7ad4d4",
             "light_type": "static_light"
@@ -353,9 +319,7 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // CAVE / OVERWORLD NATURAL LIGHT SOURCES
-        // ============================================================
+
         "minecraft:glow_lichen": {
             "light_color": "#2a4044",
             "light_type": "static_light"
@@ -369,25 +333,19 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // MUSHROOMS & FUNGI
-        // ============================================================
+
         "minecraft:brown_mushroom": {
             "light_color": "#291c09",
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // FLOWERS & PLANTS
-        // ============================================================
+
         "minecraft:firefly_bush": {
             "light_color": "#291c09",
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // ORE (when lit / activated)
-        // ============================================================
+
         "minecraft:lit_redstone_ore": {
             "light_color": "#891106",
             "light_type": "static_light"
@@ -397,9 +355,6 @@
             "light_type": "static_light"
         },
 
-        // ============================================================
-        // MISC / SPECIAL
-        // ============================================================
         "minecraft:brewing_stand": {
             "light_color": "#3a2808",
             "light_type": "static_light"
