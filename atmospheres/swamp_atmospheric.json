@@ -1,7 +1,7 @@
 {
-  "format_version": "1.26.40",
+  "format_version": "1.26.30",
   "minecraft:atmosphere_settings": {
-    "description": { "identifier": "nadirs:default_atmospherics" },
+    "description": { "identifier": "nadirs:swamp_atmospherics" },
     "sky_zenith_color": {
       "0.00": [66, 94, 121], // noon
       "0.04": [55, 79, 102], // mid afternoon
