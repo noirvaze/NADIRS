@@ -12,13 +12,13 @@
         "surface_color": "#1d2f38"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "nadirs:default_atmospherics"
+        "atmosphere_identifier": "nadirs:desert_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "nadirs:custom_color_grading"
+        "color_grading_identifier": "nadirs:desert_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "nadirs:default_lighting"
+        "lighting_identifier": "nadirs:desert_lighting"
       },
       "minecraft:water_identifier": {
         "water_identifier": "nadirs:default_water"

@@ -18,7 +18,7 @@
         "color_grading_identifier": "nadirs:cold_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "nadirs:default_lighting"
+        "lighting_identifier": "nadirs:cold_lighting"
       },
       "minecraft:water_identifier": {
         "water_identifier": "nadirs:default_water"

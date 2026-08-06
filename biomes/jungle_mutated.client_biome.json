@@ -12,7 +12,7 @@
         "surface_color": "#39556d"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "nadirs:default_atmospherics"
+        "atmosphere_identifier": "nadirs:jungle_atmospherics"
       },
       "minecraft:color_grading_identifier": {
         "color_grading_identifier": "nadirs:custom_color_grading"

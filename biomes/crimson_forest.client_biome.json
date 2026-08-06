@@ -17,7 +17,7 @@
         "mood": "ambient.crimson_forest.mood"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "nadirs:default_atmospherics"
+        "atmosphere_identifier": "nadirs:hell_atmospherics"
       },
       "minecraft:color_grading_identifier": {
         "color_grading_identifier": "nadirs:custom_color_grading"
