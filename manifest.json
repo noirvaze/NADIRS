@@ -32,7 +32,7 @@
     { "type": "label", "text": "§lNADIRS" },
     {
       "type": "label",
-      "text": "§lNADIRS, or §oNoirvaze's §oAmazing §oDeferred §oImmersive §oShader, is a §lMinecraft §lBedrock §lEdition Shader that has a realistic touch to its style of lighting. Inspired by some java shader, specifically Bliss, Photon and FastPBR."
+      "text": "§lNADIRS, or §oNoirvaze's §oAmazing §oDeferred §oImmersive §oShader, is a §lMinecraft §lBedrock §lEdition Shader §rthat has a realistic touch to its style of lighting. Inspired by some java shader, specifically Bliss, Photon and FastPBR."
     },
     {
       "type": "label",
@@ -46,7 +46,7 @@
     },
     {
       "type": "label",
-      "text": "§jMore settings will be coming soon. - §lNADIRS by noirvaze"
+      "text": "§jMore settings will be coming soon. - §lNADIRS §rby noirvaze"
     }
   ],
   "metadata": {
