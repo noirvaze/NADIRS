@@ -4,7 +4,7 @@
     "name": "NADIRS",
     "description": "A Semi-Realistic shader built for Minecraft Bedrock edition",
     "uuid": "6bf6788f-9320-4ad5-9e9f-61fce53d806d",
-    "version": [1, 0, 4],
+    "version": [1, 0, 0],
     "min_engine_version": [1, 26, 20]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "description": "A Semi-Realistic shader built for Minecraft Bedrock edition",
       "type": "resources",
       "uuid": "1064a3db-1901-490b-b9ee-d0fe0e4c10fa",
-      "version": [1, 0, 4]
+      "version": [1, 0, 0]
     }
   ],
   "subpacks": [
@@ -23,7 +23,7 @@
   },
   {
   "folder_name": "title_normal",
-  "name": "normal title",
+  "name": "title normal",
   "memory_performance_teir": 1
     }
   ],
@@ -54,9 +54,7 @@
     },
     {
     "type": "label",
-    "text": "More settings will be coming soon.
-
-    - §lNADIRS by noirvaze"
+    "text": "More settings will be coming soon. - §lNADIRS by noirvaze"
     }
   ]
 }
