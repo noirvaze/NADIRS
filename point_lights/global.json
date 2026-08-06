@@ -2,8 +2,8 @@
   "format_version": "1.21.40",
   "minecraft:point_light_settings": {
     "colors": {
-      "minecraft:torch": [255, 191, 166],
-      "minecraft:candle": [239, 227, 157],
+      "minecraft:torch": [251, 183, 65],
+      "minecraft:candle": [251, 183, 65],
       "minecraft:gray_candle": [239, 227, 157],
       "minecraft:redstone_torch": [255, 0, 0],
       "minecraft:pink_candle_cake": [239, 227, 157],

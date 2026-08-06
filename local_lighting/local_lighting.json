@@ -3,7 +3,7 @@
     "minecraft:local_light_settings": {
 
         "minecraft:torch": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "point_light"
         },
         "minecraft:soul_torch": {
@@ -20,7 +20,7 @@
         },
 
         "minecraft:lantern": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "point_light"
         },
         "minecraft:soul_lantern": {
@@ -61,7 +61,7 @@
         },
 
         "minecraft:candle": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "point_light"
         },
         "minecraft:white_candle": {
@@ -131,7 +131,7 @@
 
 
         "minecraft:campfire": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "point_light"
         },
         "minecraft:soul_campfire": {
@@ -140,7 +140,7 @@
         },
 
         "minecraft:fire": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "static_light"
         },
         "minecraft:soul_fire": {
@@ -255,15 +255,15 @@
             "light_type": "static_light"
         },
         "minecraft:lava": {
-            "light_color": "#632f18",
+            "light_color": "#F76806",
             "light_type": "static_light"
         },
         "minecraft:flowing_lava": {
-            "light_color": "#632f18",
+            "light_color": "#F76806",
             "light_type": "static_light"
         },
         "minecraft:magma": {
-            "light_color": "#552d0c",
+            "light_color": "#E33B16",
             "light_type": "static_light"
         },
         "minecraft:portal": {
@@ -297,15 +297,15 @@
 
 
         "minecraft:furnace": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "static_light"
         },
         "minecraft:blast_furnace": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "static_light"
         },
         "minecraft:smoker": {
-            "light_color": "#54280c",
+            "light_color": "#FBB741",
             "light_type": "static_light"
         },
 
