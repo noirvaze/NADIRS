@@ -31,7 +31,7 @@
       },
       "weather": {
         "fog_start": 0.10,
-        "fog_end": 100.0,
+        "fog_end": 1.0,
         "fog_color": "#303030",
         "render_distance_type": "render"
       }
