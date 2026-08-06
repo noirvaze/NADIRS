@@ -1,5 +1,5 @@
 {
-  "format_version": 2,
+  "format_version": 3,
   "header": {
     "name": "NADIRS",
     "description": "A Semi-Realistic shader built for Minecraft Bedrock edition",
@@ -15,7 +15,48 @@
       "version": [1, 0, 4]
     }
   ],
+  "subpacks": [
+  {
+  "folder_name": "title_nadirs",
+  "name": "Custom title",
+  "memory_perfromance_teir": 0
+  },
+  {
+  "folder_name": "title_normal",
+  "name": "normal title",
+  "memory_performance_teir": 1
+    }
+  ],
   "capabilities": [
   "pbr"
+  ],
+  "metadata": {
+  "authors": ["noirvaze"]
+  },
+  "settings": [
+  {
+    "type": "label",
+    "text": "§lNADIRS"
+    },
+    {
+    "type": "label",
+    "text": "§lNADIRS, or §oNoirvaze's §oAmazing §oDeferred §oImmersive §oShader, is a §lMinecraft §lBedrock §lEdition Shader that has a realistic touch to its style of lighting. Inspired by some java shader, specifically Bliss, Photon and FastPBR."
+    },
+    {
+    "type": "label",
+    "text": "§l§8--------------Title §l§8Image--------------"
+    },
+    {
+    "type": "toggle",
+    "text": "Whether to switch between normal Minecraft title, or to use the custom one provided.",
+    "name": "Custom title",
+    "default": true
+    },
+    {
+    "type": "label",
+    "text": "More settings will be coming soon.
+
+    - §lNADIRS by noirvaze"
+    }
   ]
 }
