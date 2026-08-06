@@ -6,6 +6,7 @@
 
 # NADIRS
 NADIRS, or Noirvaze's Amazing Deferred Immersive Shader, is a Minecraft Bedrock Edition Shader that has a realistic touch to its lighting. As a Bedrock player with a desktop that doesn't perform games as great, my only option was to use my Ipad, but there were only a few shaders on websites you can use and Java has way more. So I thought if I could just make one myself.
+> NADIRS is not finished yet, everything is subject to change.
 
 # Progress :hammer:
 - [x] Update UUID and Identifiers
