@@ -1,5 +1,5 @@
 {
-  "format_version": "1.26.20",
+  "format_version": "1.21.90",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "nadirs:fog_hell"
@@ -25,6 +25,14 @@
       }
     },
     "volumetric": {
+      "henyey_greenstein_g": {
+        "air": {
+          "henyey_greenstein_g": 0.65
+      },
+      "water":{
+        "henyey_greenstein_g": 0.15
+      }
+      },
       "density": {
         "air": {
           "max_density": 0.25,
@@ -42,10 +50,10 @@
       "media_coefficients": {
         "air": {
           "scattering": {
-              "0.0": [ 0.078, 0.088, 0.089],
-              "0.23": [ 0.078, 0.0782, 0.076 ],
-              "0.5": [ 0.075, 0.089, 0.09 ],
-              "0.75": [ 0.078, 0.0782, 0.076 ],
+              "0.0": [ 0.068, 0.078, 0.069],
+              "0.23": [ 0.068, 0.0682, 0.066 ],
+              "0.5": [ 0.065, 0.079, 0.08 ],
+              "0.75": [ 0.068, 0.0582, 0.066 ],
               "1.0": [ 0.078, 0.088, 0.089 ]
             },
           "absorption": {
@@ -63,14 +71,6 @@
         "cloud": {
           "scattering": [0.01, 0.06, 0.03],
           "absorption": [1.0, 1.0, 1.0]
-        }
-      },
-      "henyey_greenstein_g": {
-        "air": {
-          "henyey_greenstein_g": 0.65
-        },
-        "water": {
-          "henyey_greenstein_g": 0.15
         }
       }
     }
