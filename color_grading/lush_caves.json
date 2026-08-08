@@ -38,7 +38,7 @@
       }
         },
         "tone_mapping": {
-            "operator": "Hable"
+            "operator": "aces"
         }
     }
 }
