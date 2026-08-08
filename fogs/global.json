@@ -26,13 +26,13 @@
       "lava": {
         "fog_start": 0.0,
         "fog_end": 0.64,
-        "fog_color": "#992400",
+        "fog_color": "#f38867",
         "render_distance_type": "fixed"
       },
       "lava_resistance": {
         "fog_start": 2.0,
         "fog_end": 4.0,
-        "fog_color": "#992400",
+        "fog_color": "#f38867",
         "render_distance_type": "fixed"
       }
     },

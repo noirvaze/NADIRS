@@ -33,8 +33,8 @@
       },
       "temperature": {
         "enabled": true,
-        "temperature": 9500.0,
-        "type": "colour_temperature"
+        "temperature": 9500,
+        "type": "color_temperature"
       }
     },
     "tone_mapping": {
