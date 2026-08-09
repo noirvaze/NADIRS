@@ -53,7 +53,7 @@
       "illuminance": 0.01
     },
     "sky": {
-      "intensity": 0.03
+      "intensity": 0.1
     }
   }
 }
