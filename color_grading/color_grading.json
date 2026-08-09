@@ -33,7 +33,7 @@
       },
       "temperature": {
         "enabled": true,
-        "temperature": 8500,
+        "temperature": 3500,
         "type": "color_temperature"
       }
     },
