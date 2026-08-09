@@ -13,14 +13,14 @@
       "enabled": true,
       "frame_length": 0.02,
       "scale": 0.7,
-      "power": 0.65
+      "power": 1
     },
     "waves": {
       "enabled": true,
       "frequency": 0.75,
       "octaves": 15,
       "depth": 0.15,
-      "sampleWidth": 1.5,
+      "sampleWidth": 1,
       "speed": 3.5,
       "shape": 4,
       "pull": 0.53,
