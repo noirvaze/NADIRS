@@ -26,6 +26,9 @@
         }
       }
     },
+    "emissive": {
+      "desaturation": 0.25
+    },
     "ambient": {
       "color": "#ffffff79",
       "illuminance": 0.1
