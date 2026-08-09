@@ -4,41 +4,41 @@
         "description": {
             "identifier": "nadirs:lush_color_grading"
         },
-        "color_grading": {
-            "midtones": {
-                "midtonesMax": 50,
-                "contrast": [1.0, 1.0, 1.0],
-                "gain": [1.05, 1.05, 1.05],
-                "gamma": [2.1, 2.1, 2.1],
-                "offset": [0, 0, 0],
-                "saturation": [1.0, 1.0, 1.0]
-            },
-            "highlights": {
-                "enabled":true,
-                "highlightsMin":10,
-                "contrast": [1.3, 1.3, 1.3],
-                "gain": [1, 1, 1],
-                "gamma": [2.25, 2.25, 2.25],
-                "offset": [0, 0, 0],
-                "saturation": [1.065, 1.065, 1.065]
-            },
-            "shadows": {
-        "enabled": true,
-        "shadowsMax": 0.5,
-        "contrast": [1.086, 1.086, 1.086],
-        "gain": [1.035, 1.035, 1.035],
-        "gamma": [1, 1, 1],
+    "color_grading": {
+      "midtones": {
+        "midtonesMax": 60,
+        "contrast": [1.065, 1.066, 1.066],
+        "gain": [1.065, 1.065, 1.065],
+        "gamma": [2.2, 2.23, 2.215],
+        "offset": [0, 0, 0],
+        "saturation": [1.1, 1.1, 1.1]
+      },
+      "highlights": {
+        "enabled":true,
+        "highlightsMin":20,
+        "contrast": [1.35, 1.45, 1.35],
+        "gain": [1, 1, 1],
+        "gamma": [2.35, 2.35, 2.35],
         "offset": [0, 0, 0],
         "saturation": [1.07, 1.07, 1.07]
       },
+      "shadows": {
+        "enabled": true,
+        "shadowsMax": 0.5,
+        "contrast": [1.086, 1.086, 1.086],
+        "gain": [1.015, 1.015, 1.015],
+        "gamma": [2, 2, 2],
+        "offset": [0, 0, 0],
+        "saturation": [1.07, 1.085, 1.085]
+      },
       "temperature": {
         "enabled": true,
-        "temperature": 9500.0,
-        "type": "colour_temperature"
+        "temperature": 8500,
+        "type": "color_temperature"
       }
-        },
-        "tone_mapping": {
-            "operator": "aces"
-        }
+    },
+    "tone_mapping": {
+      "operator": "hable"
     }
+  }
 }

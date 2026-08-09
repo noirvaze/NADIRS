@@ -15,7 +15,7 @@
         "atmosphere_identifier": "nadirs:jungle_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "nadirs:custom_color_grading"
+        "color_grading_identifier": "nadirs:default_color_grading"
       },
       "minecraft:lighting_identifier": {
         "lighting_identifier": "nadirs:default_lighting"
