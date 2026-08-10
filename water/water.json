@@ -20,7 +20,6 @@
       "frequency": 0.75,
       "octaves": 15,
       "depth": 0.15,
-      "sampleWidth": 1,
       "speed": 3.5,
       "shape": 4,
       "pull": 0.53,
@@ -28,7 +27,6 @@
       "frequency_scaling": 1.1,
       "direction_increment": 80,
       "speed_scaling": 1.01
-    },
-     "biome_water_color_contribution": 0.02
+    }
   }
 }
