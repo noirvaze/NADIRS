@@ -9,7 +9,7 @@
         "fog_identifier": "nadirs:fog_default"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#44AFF5"
+        "surface_color": "#31414b"
       },
       "minecraft:dry_foliage_color": {
         "color": "#7B5334"

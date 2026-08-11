@@ -5,14 +5,11 @@
       "identifier": "pale_garden"
     },
     "components": {
-      "minecraft:sky_color": {
-        "sky_color": "#b9b9b9"
-      },
       "minecraft:fog_appearance": {
         "fog_identifier": "nadirs:fog_default"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#76889D",
+        "surface_color": "#31414b",
         "surface_opacity": 0.01
       },
       "minecraft:biome_music": {

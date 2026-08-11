@@ -12,19 +12,19 @@
     "caustics": {
       "enabled": true,
       "frame_length": 0.02,
-      "scale": 0.7,
+      "scale": 0.2,
       "power": 1
     },
     "waves": {
       "enabled": true,
-      "frequency": 0.75,
+      "frequency": 2.3,
       "octaves": 15,
-      "depth": 0.15,
-      "speed": 3.5,
+      "depth": 0.35,
+      "speed": 3.8,
       "shape": 4,
       "pull": 0.53,
       "mix": 0.1,
-      "frequency_scaling": 1.1,
+      "frequency_scaling": 1.45,
       "direction_increment": 80,
       "speed_scaling": 1.01
     }

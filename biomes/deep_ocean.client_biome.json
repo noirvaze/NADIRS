@@ -9,7 +9,7 @@
         "fog_identifier": "nadirs:fog_default"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#1787D4"
+        "surface_color": "#31414b"
       },
       "minecraft:atmosphere_identifier": {
         "atmosphere_identifier": "nadirs:default_atmospherics"

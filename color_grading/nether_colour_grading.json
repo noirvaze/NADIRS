@@ -2,7 +2,7 @@
   "format_version": "1.21.90",
   "minecraft:color_grading_settings": {
     "description": {
-      "identifier": "nadirs:hot_color_grading"
+      "identifier": "nadirs:nether_color_grading"
     },
     "color_grading": {
       "midtones": {
@@ -11,7 +11,7 @@
         "gain": [1.065, 1.065, 1.065],
         "gamma": [2.2, 2.23, 2.215],
         "offset": [0, 0, 0],
-        "saturation": [1.1, 1.1, 1.1]
+        "saturation": [1.15, 1.15, 1.15]
       },
       "highlights": {
         "enabled":true,
@@ -33,7 +33,7 @@
       },
       "temperature": {
         "enabled": true,
-        "temperature": 5700,
+        "temperature": 6500,
         "type": "color_temperature"
       }
     },

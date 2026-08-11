@@ -9,7 +9,7 @@
         "fog_identifier": "nadirs:fog_default"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#905957"
+        "surface_color": "#31414b"
       },
       "minecraft:ambient_sounds": {
         "addition": "ambient.soulsand_valley.additions",
@@ -20,7 +20,7 @@
         "atmosphere_identifier": "nadirs:default_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "nadirs:default_color_grading"
+        "color_grading_identifier": "nadirs:nether_color_grading"
       },
       "minecraft:lighting_identifier": {
         "lighting_identifier": "nadirs:default_lighting"

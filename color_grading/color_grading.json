@@ -11,7 +11,7 @@
         "gain": [1.065, 1.065, 1.065],
         "gamma": [2.2, 2.23, 2.215],
         "offset": [0, 0, 0],
-        "saturation": [1.2, 1.2, 1.13]
+        "saturation": [1.1, 1.1, 1.1]
       },
       "highlights": {
         "enabled":true,
@@ -20,7 +20,7 @@
         "gain": [1, 1, 1],
         "gamma": [2.35, 2.35, 2.35],
         "offset": [0, 0, 0],
-        "saturation": [1.07, 1.07, 1.07]
+        "saturation": [1.1, 1.1, 1.1]
       },
       "shadows": {
         "enabled": true,
@@ -33,7 +33,7 @@
       },
       "temperature": {
         "enabled": true,
-        "temperature": 7500,
+        "temperature": 5700,
         "type": "color_temperature"
       }
     },
