@@ -1,8 +1,7 @@
 [
-   "textures/environment/moon_phases.png",
-   "textures/environment/sun_vv.png",
-   "textures/environment/weather.png",
-   "textures/environment/clouds.png",
+   "textures/environment/moon_phases",
+   "textures/environment/sun_vv",
+   "textures/environment/weather",
 
    "textures/ui/title.png"
 ]
