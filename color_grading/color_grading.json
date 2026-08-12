@@ -11,7 +11,7 @@
         "gain": [1.065, 1.065, 1.065],
         "gamma": [2.2, 2.23, 2.215],
         "offset": [0, 0, 0],
-        "saturation": [1.1, 1.1, 1.1]
+        "saturation": [1.35, 1.35, 1.35]
       },
       "highlights": {
         "enabled":true,
@@ -26,14 +26,14 @@
         "enabled": true,
         "shadowsMax": 0.5,
         "contrast": [1.086, 1.086, 1.086],
-        "gain": [1.035, 1.035, 1.035],
+        "gain": [1.015, 1.015, 1.015],
         "gamma": [2, 2, 2],
         "offset": [0, 0, 0],
         "saturation": [1.07, 1.085, 1.085]
       },
       "temperature": {
         "enabled": true,
-        "temperature": 5700,
+        "temperature": 5900,
         "type": "color_temperature"
       }
     },
