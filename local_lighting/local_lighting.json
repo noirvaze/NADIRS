@@ -3,28 +3,28 @@
     "minecraft:local_light_settings": {
 
         "minecraft:torch": {
-            "light_color": "#FBB741",
+            "light_color": "#ffa14a",
             "light_type": "point_light"
         },
         "minecraft:soul_torch": {
-            "light_color": "#2c7ea0",
+            "light_color": "#43a2ca",
             "light_type": "point_light"
         },
         "minecraft:redstone_torch": {
-            "light_color": "#9e1c0e",
+            "light_color": "#c24537",
             "light_type": "point_light"
         },
         "minecraft:copper_torch": {
-            "light_color": "#5a8c2a",
+            "light_color": "#78b93b",
             "light_type": "point_light"
         },
 
         "minecraft:lantern": {
-            "light_color": "#FBB741",
+            "light_color": "#f5bf61",
             "light_type": "point_light"
         },
         "minecraft:soul_lantern": {
-            "light_color": "#2c7ea0",
+            "light_color": "#3e94b9",
             "light_type": "point_light"
         },
         "minecraft:copper_lantern": {
@@ -131,7 +131,7 @@
 
 
         "minecraft:campfire": {
-            "light_color": "#FBB741",
+            "light_color": "#f09d40",
             "light_type": "point_light"
         },
         "minecraft:soul_campfire": {
@@ -297,7 +297,7 @@
 
 
         "minecraft:furnace": {
-            "light_color": "#FBB741",
+            "light_color": "#fba441",
             "light_type": "point_light"
         },
         "minecraft:blast_furnace": {
