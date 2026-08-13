@@ -17,7 +17,7 @@
         "enabled":true,
         "highlightsMin":20,
         "contrast": [1.35, 1.45, 1.35],
-        "gain": [1, 1, 1],
+        "gain": [1.5, 1.5, 1.5],
         "gamma": [2.35, 2.35, 2.35],
         "offset": [0, 0, 0],
         "saturation": [1.1, 1.1, 1.1]

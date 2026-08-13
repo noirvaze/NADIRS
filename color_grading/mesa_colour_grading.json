@@ -11,13 +11,13 @@
         "gain": [1.065, 1.065, 1.065],
         "gamma": [2.2, 2.23, 2.215],
         "offset": [0, 0, 0],
-        "saturation": [1.1, 1.1, 1.1]
+        "saturation": [1.35, 1.35, 1.35]
       },
       "highlights": {
         "enabled":true,
         "highlightsMin":20,
         "contrast": [1.35, 1.45, 1.35],
-        "gain": [1, 1, 1],
+        "gain": [1.5, 1.5, 1.5],
         "gamma": [2.35, 2.35, 2.35],
         "offset": [0, 0, 0],
         "saturation": [1.1, 1.1, 1.1]
@@ -26,14 +26,14 @@
         "enabled": true,
         "shadowsMax": 0.5,
         "contrast": [1.086, 1.086, 1.086],
-        "gain": [1.035, 1.035, 1.035],
+        "gain": [1.015, 1.015, 1.015],
         "gamma": [2, 2, 2],
         "offset": [0, 0, 0],
         "saturation": [1.07, 1.085, 1.085]
       },
       "temperature": {
         "enabled": true,
-        "temperature": 5700,
+        "temperature": 5900,
         "type": "color_temperature"
       }
     },
