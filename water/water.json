@@ -19,7 +19,7 @@
       "enabled": true,
       "frequency": 1.8,
       "octaves": 15,
-      "depth": 1.35,
+      "depth": 0.55,
       "speed": 2.8,
       "shape": 4,
       "pull": 0.73,
