@@ -17,15 +17,15 @@
     },
     "waves": {
       "enabled": true,
-      "frequency": 1.8,
+      "frequency": 1,
       "octaves": 15,
-      "depth": 0.55,
-      "speed": 2.8,
+      "depth": 0.15,
+      "speed": 3,
       "shape": 4,
-      "pull": 0.73,
+      "pull": 0.55,
       "mix": 0.1,
-      "frequency_scaling": 1.45,
-      "direction_increment": 80,
+      "frequency_scaling": 1.15,
+      "direction_increment": 90,
       "speed_scaling": 1.01
     }
   }

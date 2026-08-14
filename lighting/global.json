@@ -40,13 +40,13 @@
             "0.75": 0.0
           },
           "color": {
-            "0.30": "#8d6d44",
-            "0.35": "#a08c62",
+            "0.30": "#978367",
+            "0.35": "#a39a87",
             "0.45": "#e5e5e5",
             "0.75": "#e5e5e5"
           }
         },
-        "orbital_offset_degrees": 35
+        "orbital_offset_degrees": 15
       },
       "flash": {
         "illuminance": 10.0,
