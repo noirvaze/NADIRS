@@ -8,17 +8,17 @@
       "midtones": {
         "midtonesMax": 60,
         "contrast": [1.055, 1.056, 1.056],
-        "gain": [1.065, 1.065, 1.065],
+        "gain": [1.055, 1.040, 1.065],
         "gamma": [2.2, 2.23, 2.215],
         "offset": [0, 0, 0],
-        "saturation": [1.35, 1.35, 1.35]
+        "saturation": [1.45, 1.45, 1.45]
       },
       "highlights": {
         "enabled":true,
         "highlightsMin":20,
         "contrast": [1.35, 1.45, 1.35],
         "gain": [1.5, 1.5, 1.5],
-        "gamma": [2.35, 2.35, 2.35],
+        "gamma": [2.1, 2.1, 2.1],
         "offset": [0, 0, 0],
         "saturation": [1.1, 1.1, 1.1]
       },
@@ -26,15 +26,15 @@
         "enabled": true,
         "shadowsMax": 0.5,
         "contrast": [1.086, 1.086, 1.086],
-        "gain": [1.015, 1.015, 1.015],
+        "gain": [1.045, 1.045, 1.045],
         "gamma": [2, 2, 2],
         "offset": [0, 0, 0],
         "saturation": [1.07, 1.085, 1.085]
       },
       "temperature": {
         "enabled": true,
-        "temperature": 5900,
-        "type": "color_temperature"
+        "temperature": 6500,
+        "type": "white_balance"
       }
     },
     "tone_mapping": {
