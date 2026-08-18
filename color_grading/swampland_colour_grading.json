@@ -11,7 +11,7 @@
         "gain": [1.055, 1.040, 1.065],
         "gamma": [2.2, 2.23, 2.215],
         "offset": [0, 0, 0],
-        "saturation": [1.45, 1.45, 1.45]
+        "saturation": [1.15, 1.15, 1.45]
       },
       "highlights": {
         "enabled":true,

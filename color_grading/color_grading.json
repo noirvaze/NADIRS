@@ -7,11 +7,11 @@
     "color_grading": {
       "midtones": {
         "midtonesMax": 60,
-        "contrast": [1.045, 1.046, 1.046],
-        "gain": [1.055, 1.040, 1.065],
-        "gamma": [2.2, 2.23, 2.215],
-        "offset": [0, 0, 0],
-        "saturation": [1.45, 1.45, 1.45]
+        "contrast": [1.060, 1.065, 1.075],
+        "gain": [0.985, 1.005, 1.035],
+        "gamma": [2.195, 2.215, 2.240],
+        "offset": [-0.006, -0.004, 0.003],
+        "saturation": [1.10, 1.08, 1.06]
       },
       "highlights": {
         "enabled":true,
@@ -20,7 +20,7 @@
         "gain": [1.065, 1.066, 1.066],
         "gamma": [2.35, 2.35, 2.35],
         "offset": [0, 0, 0],
-        "saturation": [1.1, 1.1, 1.1]
+        "saturation": [1.1, 1.08, 1.06]
       },
       "shadows": {
         "enabled": true,
