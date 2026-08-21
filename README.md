@@ -15,7 +15,7 @@ NADIRS, or Noirvaze's Amazing Deferred Immersive Shader, is a Minecraft Bedrock 
 - [ ] adjust properties till it looks good
 - [x] Update clouds with new shapes
 - [ ] fix water texture
-- [ ] fix shadows
+- [x] fix shadows
 - [ ] test before releasing alpha to testers for feedback
 ### Commits
 Alternatively, you can just view my recent commits and see what has changed in detail.
