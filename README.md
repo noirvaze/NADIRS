@@ -8,15 +8,30 @@
 NADIRS, or Noirvaze's Amazing Deferred Immersive Shader, is a Minecraft Bedrock Edition Shader that has a realistic touch to its lighting. As a Bedrock player with a desktop that doesn't perform games as great, my only option was to use my Ipad, but there were only a few shaders on websites you can use and Java has way more. So I thought if I could just make one myself.
 > NADIRS is not finished yet, everything is subject to change.
 
-# Progress :hammer:
-- [x] Update UUID and Identifiers
-- [x] Edit [Lighting.json](https://github.com/noirvaze/NADIRS/tree/f32637bce9712c2c9bf16267e4bce3f902b5802e/lighting0) with new colours
-- [x] Edit [Atmospheric.json](https://github.com/noirvaze/NADIRS/tree/f32637bce9712c2c9bf16267e4bce3f902b5802e/atmospherics) with new colours
-- [ ] adjust properties till it looks good
-- [x] Update clouds with new shapes
-- [ ] fix water texture
-- [x] fix shadows
-- [ ] test before releasing alpha to testers for feedback
+## progress board
+```mermaid
+graph TD;
+    property-adjustments-->fix-water-textures;
+    property-adjustments-->adjust-zenith-and-horizon-colours;
+    property-adjustments-->adjust-horizon-min-&-max;
+    fix-water-textures-->change-point-light-colours;
+    change-point-light-colours-->add-textures-for-pbr;
+add-textures-for-pbr-->adjust-pbrfallback-parameters;
+    add-textures-for-pbr-->check-for-syntax-errors;
+check-for-syntax-errors-->test;
+test-->release-pre-release;
+```
+
+| Tasks | Finished? | Notes |
+| :---         |     :---:      |          ---: |
+| property adjustments   | No     | adjustments are still needed    |
+| fix water textures     | No       | I dont have the textures yet, though this is planned for the future      |
+| change point light colours | No | currently changing, will update to ```yes``` once everything looks good, though since all lights are point lights it may cause lag. |
+|add textures for pbr | Work in progress | currently adding textures, will adjust pbr settings once complete |
+|adjust pbrfallback parameters | Work in progress | may take time to perfect it. |
+|check for syntax errors | No | not there yet. |
+| test | No | not there yet. |
+| release pre-release | No | not ready yet, though you can compile it yourself by commands or downloading the zip. not recommended though |
 ### Commits
 Alternatively, you can just view my recent commits and see what has changed in detail.
 
@@ -45,3 +60,5 @@ _Enjoy your new experience._
   </summary>
   This shader is still in its works, you can view progress by viewing commits. If you want to use this while development is still being made <sub>( this is not recommened )</sub>, compile by using your command prompt <sub>( windows )</sub>, download [git](https://git-scm.com/), and type `git clone https://github.com/noirvaze/NADIRS.git` to clone. use cd to select the folder location to clone in, or make a new one by typing md.
 </details>
+
+### if you have any questions, please contact me through discord ( @noir_studios ) or email ( noirvaze@icloud.com )
