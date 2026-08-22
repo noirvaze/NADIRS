@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This shader is recommended to be used on mid to high end devices. low end devices may experience lag due to Vibrant Visuals.
+> This shader is recommended to be used on mid to high end devices. low end devices may experience lag due to Vibrant Visuals. Though, running this shader without any other mods can be the fix to the performance hit, Using multiple mods at once can be the issue, or you can install performance mods that uses culling.
 
 > [!NOTE]
 > this is not finished yet, more progress will be done on this github soon and so will the shader! below is just a made readme for the future. everything in this shader can be changed in the future.
