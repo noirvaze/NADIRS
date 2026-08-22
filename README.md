@@ -19,14 +19,21 @@ graph TD;
 add-textures-for-pbr-->adjust-pbrfallback-parameters;
     add-textures-for-pbr-->check-for-syntax-errors;
 check-for-syntax-errors-->test;
+adjust-pbrfallback-parameters-->check-for-syntax-errors;
+add-textures-for-pbr-->check-for-syntax-errors;
+change-point-light-colours-->check-for-syntax-errors;
+fix-water-textures-->check-for-syntax-errors;
+adjust-horizon-min-&-max-->check-for-syntax-errors;
+adjust-zenith-and-horizon-colours-->check-for-syntax-errors;
+property-adjustments-->check-for-syntax-errors;
 test-->release-pre-release;
 ```
 
 | Tasks | Finished? | Notes |
 | :---         |     :---:      |          ---: |
-| property adjustments   | No     | adjustments are still needed    |
+| property adjustments   | Work in Progress     | adjustments are still needed    |
 | fix water textures     | No       | I dont have the textures yet, though this is planned for the future      |
-| change point light colours | No | currently changing, will update to ```yes``` once everything looks good, though since all lights are point lights it may cause lag. |
+| change point light colours | Work in progress (65%) | currently changing, will update to ```yes``` once everything looks good, though since all lights are point lights it may cause lag. |
 |add textures for pbr | Work in progress | currently adding textures, will adjust pbr settings once complete |
 |adjust pbrfallback parameters | Work in progress | may take time to perfect it. |
 |check for syntax errors | No | not there yet. |
