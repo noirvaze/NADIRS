@@ -2,8 +2,8 @@
   "format_version": "1.21.40",
   "minecraft:point_light_settings": {
     "colors": {
-      "minecraft:torch": "#ffa14a",
-      "minecraft:candle": "#ffa14a",
+      "minecraft:torch": "#f1b57c",
+      "minecraft:candle": "#f1b57c",
       "minecraft:gray_candle": "#efe39d",
       "minecraft:redstone_torch": "#a53c29",
       "minecraft:pink_candle_cake": "#efe39d",
@@ -15,7 +15,7 @@
       "minecraft:brown_candle": "#efe39d",
       "minecraft:white_candle": "#efe39d",
       "minecraft:orange_candle_cake": "#efe39d",
-      "minecraft:end_rod": "#ffffff",
+      "minecraft:end_rod": "#f5eec7",
       "minecraft:orange_candle": "#efe39d",
       "minecraft:cyan_candle_cake": "#efe39d",
       "minecraft:magenta_candle": "#efe39d",

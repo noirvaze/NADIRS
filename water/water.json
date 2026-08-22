@@ -5,9 +5,9 @@
       "identifier": "nadirs:default_water"
     },
     "particle_concentrations": {
-      "chlorophyll": 0.4,
-      "suspended_sediment": 0.15,
-      "cdom": 0.1
+      "chlorophyll": 0.7,
+      "suspended_sediment": 0.5,
+      "cdom": 0.4
     },
     "caustics": {
       "enabled": true,

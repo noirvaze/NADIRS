@@ -57,7 +57,7 @@
       },
       "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.85
+          "henyey_greenstein_g": 0.95
       },
       "water":{
         "henyey_greenstein_g": 0.25
