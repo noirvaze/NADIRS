@@ -19,7 +19,6 @@
   "capabilities": ["pbr"],
   "metadata": {
     "authors": ["noirvaze"],
-    "url": "https://github.com/noirvaze/NADIRS",
-    "generated_with": { "jaylydev_manifest_generator": ["1.0.0"] }
+    "url": "https://github.com/noirvaze/NADIRS"
   }
 }

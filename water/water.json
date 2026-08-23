@@ -28,6 +28,6 @@
       "direction_increment": 90,
       "speed_scaling": 1.01
     },
-    "biome_water_color_contribution": 0
+    "biome_water_color_contribution": 0.1
   }
 }
