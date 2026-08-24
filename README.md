@@ -2,7 +2,7 @@
 > This shader is recommended to be used on mid to high end devices. low end devices may experience lag due to Vibrant Visuals. Though, running this shader without any other mods can be the fix to the performance hit, Using multiple mods at once can be the issue, or you can install performance mods that uses culling.
 
 > [!NOTE]
-> This is a *very verrrry* early alpha stages and there are issues like grass and blocks being neon at night, horizon and zenith colours mistimed etc.. Please be patient while I fix these, I can a solo developer/begginer so dont expect everything perfect.
+> This is a *very verrrry* early alpha stage of NADIRS and there are issues like grass and blocks being neon at night, horizon and zenith colours mistimed etc.. Please be patient while I fix these, I can a solo developer/begginer so dont expect everything perfect.
 
 # NADIRS
 NADIRS, or Noirvaze's Amazing Deferred Immersive Shader, is a Minecraft Bedrock Edition Shader that has a realistic touch to its lighting. As a Bedrock player with a desktop that doesn't perform games as great, my only option was to use my Ipad, but there were only a few shaders on websites you can use and Java has way more. So I thought if I could just make one myself.
