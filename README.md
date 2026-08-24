@@ -36,7 +36,7 @@ test-->release-pre-release;
 | change point light colours | Work in progress (65%) | currently changing, will update to ```yes``` once everything looks good, though since all lights are point lights it may cause lag. |
 |add textures for pbr | Work in progress | currently adding textures, will adjust pbr settings once complete |
 |adjust pbrfallback parameters | Work in progress | may take time to perfect it. |
-|check for syntax errors | No | not there yet. |
+|check for  errors/bugs | No | not there yet. |
 | test | No | not there yet. |
 | release pre-release | No | not ready yet, though you can compile it yourself by commands or downloading the zip. not recommended though |
 ### Commits
