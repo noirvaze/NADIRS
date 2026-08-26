@@ -18,7 +18,7 @@
     "waves": {
       "enabled": false,
       "frequency": 1,
-      "octaves": 28,
+      "octaves": 18,
       "depth": 1,
       "speed": 2,
       "shape": 1.5,

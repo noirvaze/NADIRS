@@ -3,7 +3,7 @@
     "minecraft:local_light_settings": {
 
         "minecraft:torch": {
-            "light_color": "#ecd6ac",
+            "light_color": "#fdb343",
             "light_type": "point_light"
         },
         "minecraft:soul_torch": {
