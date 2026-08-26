@@ -1,33 +1,31 @@
 {
-  "format_version": "1.26.0",
+  "format_version": "1.21.120",
   "minecraft:water_settings": {
     "description": {
       "identifier": "nadirs:default_water"
     },
     "particle_concentrations": {
-      "chlorophyll": 0.7,
-      "suspended_sediment": 0.5,
-      "cdom": 0.4
+      "chlorophyll": 0.5,
+      "suspended_sediment": 0.3,
+      "cdom": 0.2
     },
     "caustics": {
       "enabled": true,
-      "frame_length": 0.02,
-      "scale": 0.05,
+      "frame_length": 0.09,
+      "scale": 0.5,
       "power": 1
     },
     "waves": {
-      "enabled": true,
-      "frequency": 0.65,
-      "octaves": 15,
-      "depth": 0.15,
-      "speed": 3.5,
-      "shape": 4,
-      "pull": 0.55,
-      "mix": 0.1,
-      "frequency_scaling": 1.15,
-      "direction_increment": 90,
-      "speed_scaling": 1.01
-    },
-    "biome_water_color_contribution": 0.1
+      "enabled": false,
+      "frequency": 1,
+      "octaves": 28,
+      "depth": 1,
+      "speed": 2,
+      "shape": 1.5,
+      "pull": 0.3799999952316284,
+      "mix": 0.20000000298023224,
+      "frequency_scaling": 1.2000000476837158,
+      "speed_scaling": 1.0299999713897705
+    }
   }
 }
