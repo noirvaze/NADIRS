@@ -2,7 +2,7 @@
   "format_version": "1.21.70",
   "minecraft:lighting_settings": {
     "description": {
-      "identifier": "nadirs:hot_lighting"
+      "identifier": "nadirs:coolish_lighting"
     },
     "directional_lights": {
       "sun": {
@@ -36,8 +36,8 @@
           "0.735000": 0.4
         },
         "color": {
-          "0.000000": [ 36, 86, 255 ],
-          "1.000000": [ 36, 86, 255 ]
+          "0.000000": [ 163, 182, 255 ],
+          "1.000000": [ 163, 182, 255 ]
         }
       }
     }
