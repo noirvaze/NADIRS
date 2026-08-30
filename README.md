@@ -42,10 +42,10 @@ test-->release-pre-release;
 ### Commits
 Alternatively, you can just view my recent commits and see what has changed in detail.
 
-# Download, Installation & Compatability
-Below is information about installling and compatability.
+# Download, Installation & Compatibility
+Below is information about installing and compatibility.
 
-## Minecraft version and Compatability
+## Minecraft version and Compatibility
 For NADIRS to work, you <ins>must</ins> have:
 > - Mincraft Bedrock Edition <sup>( Windows, IOS or Android )</sup>
 > - Version 1.21.80.25 and up to have access to Vibrant visuals/Deferred Technical Preview
