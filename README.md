@@ -50,7 +50,19 @@ For NADIRS to work, you <ins>must</ins> have:
 > - Mincraft Bedrock Edition <sup>( Windows, IOS or Android )</sup>
 > - Version 1.21.80.25 and up to have access to Vibrant visuals/Deferred Technical Preview
 
-## Installation
+## Installation & required dependancies
+
+> [!NOTE]
+> The api is not currently integraded into NADIRS yet. this is just here for the future, though it is planned to add support.
+### Lighting Api
+this api allows the pack to integrate dyanmic lighting to light emiting items, like torches or lanterns. this can increase immersion for gameplay! it is a required dependacy.
+
+How to install it:
+1. Go to the curseforge page and [download](https://www.curseforge.com/minecraft-bedrock/addons/dynamic-lighting-api/) the latest version of the pack.
+2. import the pack, and active it in your workd settings, under behavior packs.
+_done!_
+
+### Installation
 Unlike Java, Bedrock edition has a way easier way of importing and installing resource packs. _It doesnt require anything else!_
 
 1. Download the latest release in the [Release page](https://github.com/noirvaze/NADIRS/releases)
