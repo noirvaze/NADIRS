@@ -53,7 +53,7 @@ For NADIRS to work, you <ins>must</ins> have:
 ## Installation & required dependancies
 
 > [!NOTE]
-> The api is not currently integraded into NADIRS yet. this is just here for the future, though it is planned to add support.
+> The lighting api is not currently integraded into NADIRS yet. this is just here for the future, though it is planned to add support.
 ### Lighting Api
 this api allows the pack to integrate dyanmic lighting to light emiting items, like torches or lanterns. this can increase immersion for gameplay! it is a required dependacy.
 
@@ -79,5 +79,8 @@ _Enjoy your new experience._
   </summary>
   This shader is still in its works, you can view progress by viewing commits. If you want to use this while development is still being made <sub>( this is not recommened )</sub>, compile by using your command prompt <sub>( windows )</sub>, download [git](https://git-scm.com/), and type `git clone https://github.com/noirvaze/NADIRS.git` to clone. use cd to select the folder location to clone in, or make a new one by typing md.
 </details>
+
+# Credits
+[AlienEdds](https://www.curseforge.com/members/alienedds/projects) - for the Dyanmic Lighting Api. Credits goes to them for making the api
 
 ### if you have any questions, please contact me through discord ( @noir_studios ) or email ( noirvaze@icloud.com )
