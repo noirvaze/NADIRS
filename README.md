@@ -90,6 +90,6 @@ _Enjoy your new experience._
 ](https://discord.com/users/1203732783768408085)
 
 ### Email
-[<img width="531" height="153" alt="hero-banner-gradient-by image large_2x" src="https://github.com/user-attachments/assets/46fe40e2-6f8b-4941-909c-958c8a7eb262" />
+[<img width="198" height="58" alt="hero-banner-gradient-by image large_2x" src="https://github.com/user-attachments/assets/46fe40e2-6f8b-4941-909c-958c8a7eb262" />
 ](mailto:noirvaze@icloud.com)
 
