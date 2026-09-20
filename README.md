@@ -83,4 +83,12 @@ _Enjoy your new experience._
 # Credits
 [AlienEdds](https://www.curseforge.com/members/alienedds/projects) - for the Dyanmic Lighting Api. Credits goes to them for making the api
 
-### if you have any questions, please contact me through discord ( @noir_studios ) or email ( noirvaze@icloud.com )
+# Have Questions?
+
+### Discord
+[<img width="198" height="58" alt="image" src="https://github.com/user-attachments/assets/0cdae86f-2e35-43bc-ae01-351d1a9cd005" />
+](https://discord.com/users/1203732783768408085)
+
+### Email
+[<img width="3600" height="1080" alt="hero-banner-gradient-by image large_2x" src="https://github.com/user-attachments/assets/57880b98-1edd-420e-8036-64820fdd3d22" />](mailto:noirvaze@icloud.com)
+
