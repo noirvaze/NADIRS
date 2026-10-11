@@ -55,7 +55,7 @@ For NADIRS to work, you <ins>must</ins> have:
 > [!NOTE]
 > The lighting api is not currently integraded into NADIRS yet. this is just here for the future, though it is planned to add support.
 ### Lighting Api
-this api allows the pack to integrate dyanmic lighting to light emiting items, like torches or lanterns. this can increase immersion for gameplay! it is a required dependacy.
+this api allows the pack to integrate dynamic lighting to light emiting items, like torches or lanterns. this can increase immersion for gameplay! it is a required dependacy.
 
 How to install it:
 1. Go to the curseforge page and [download](https://www.curseforge.com/minecraft-bedrock/addons/dynamic-lighting-api/) the latest version of the pack.
@@ -72,6 +72,7 @@ _Enjoy your new experience._
 
 ### Downloads
 - [Releases](https://github.com/noirvaze/NADIRS/releases)
+> For the best immersion, I'd recommend using RTX if supported, and using a sound overhauling pack, Like [NISO](https://github.com/noirvaze/NISO) which I am also developing.
 
 <details>
   <summary>
