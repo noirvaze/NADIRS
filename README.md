@@ -83,6 +83,7 @@ _Enjoy your new experience._
 
 # Credits
 [AlienEdds](https://www.curseforge.com/members/alienedds/projects) - for the Dyanmic Lighting Api. Credits goes to them for making the api
+
 [Pinterest](https://ca.pinterest.com/) - The background for NISO's icon is from Pinterest, the text was editing using [Photopea](https://www.photopea.com/).
 
 # Have Questions?
